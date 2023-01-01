@@ -7,7 +7,7 @@
     "start": "NODE_ENV=production node app",
     "dev": "NODE_ENV=development nodemon app"
   },
-  "author": "Michael Parkadze",
+  "author": "Khadija & Zineb",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
